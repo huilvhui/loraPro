@@ -1,4 +1,4 @@
-package com.hikvision.lora.gateway.dto;
+package com.xier.lora.gateway.dto;
 
 public class GatewayData {
 	
