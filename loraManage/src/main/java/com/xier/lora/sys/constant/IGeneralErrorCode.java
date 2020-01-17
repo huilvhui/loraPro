@@ -1,4 +1,4 @@
-package com.hikvision.lora.sys.constant;
+package com.xier.lora.sys.constant;
 
 public interface IGeneralErrorCode {
 	
