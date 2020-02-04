@@ -3,9 +3,9 @@ package com.xier.lorawan.key;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 
-import com.hikvision.lorawan.security.aes.LoraPayloadAesCrypto;
-import com.hikvision.lorawan.security.aes.LoraPayloadAesCryptoImpl;
-import com.hikvision.lorawan.util.HexUtil;
+import com.xier.lorawan.security.aes.LoraPayloadAesCrypto;
+import com.xier.lorawan.security.aes.LoraPayloadAesCryptoImpl;
+import com.xier.lorawan.util.HexUtil;
 
 /**
  * function:用于计算skey的工具类
